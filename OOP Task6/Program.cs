@@ -56,15 +56,15 @@ namespace OOP_Task6
             //{
             //    if (ToThisCurrency==1)
             //    {
-            //        Console.WriteLine("Cevrilmis mebleg:"+" "+azn * 0.59);
+            //        Console.WriteLine("Cevrilmis mebleg:"+" "+azn / 1.7);
             //    }
             //    if (ToThisCurrency==2)
             //    {
-            //        Console.WriteLine("Cevrilmis mebleg:"+" "+azn * 0.54);
+            //        Console.WriteLine("Cevrilmis mebleg:"+" "+azn / 1.86);
             //    }
             //    if (ToThisCurrency==3)
             //    {
-            //        Console.WriteLine("Cevrilmis mebleg:"+" "+azn * 20.17);
+            //        Console.WriteLine("Cevrilmis mebleg:"+" "+azn / 0.050);
             //    }
             //}
             #endregion
